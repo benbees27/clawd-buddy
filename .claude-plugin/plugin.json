@@ -1,0 +1,6 @@
+{
+  "name": "clawd-buddy",
+  "version": "0.1.0",
+  "description": "A pixel Claude buddy above the prompt that acts out what Claude is doing, with a dozen animations",
+  "types": "./types/index.d.ts"
+}
